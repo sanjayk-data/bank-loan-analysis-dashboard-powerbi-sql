@@ -88,7 +88,7 @@ For each KPI:
 - Clients can run the queries directly on their own database to cross-check results.
 
 *** Benefits of SQL Validation:***
-” metrics.
+
 1. Transparent calculations .
 
 2. Guarantees Power BI results match database values.
